@@ -1,6 +1,6 @@
 # 🌿 Projet Lichen : Architecture de Transition Systémique
 
-![Status](https://img.shields.io/badge/Status-Horizon_2026-green) ![License](https://img.shields.io/badge/License-Hippocratic_3.0-blue) ![Economy](https://img.shields.io/badge/Economy-Regenerative-forestgreen)
+![Status](https://img.shields.io/badge/Status-Horizon_2026-green) ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg) ![Economy](https://img.shields.io/badge/Economy-Regenerative-forestgreen)
 
 > **"Forker le Capitalisme pour sauver le Monde."**
 
